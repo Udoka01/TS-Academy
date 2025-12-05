@@ -1,1 +1,1 @@
-This is my TS Academy html CV Assignment
+This is my TS Academy html CV Assignment.
